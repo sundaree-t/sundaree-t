@@ -1,7 +1,6 @@
+![](ezgif.com-gif-maker.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/92509274/153542786-3006e237-813b-40bc-952b-a38f229ae616.gif)
 
-### Hi there 👋
 
 <!--
 **sundaree-t/sundaree-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
