@@ -1,6 +1,6 @@
 ![](gifgithub.gif)
 
-[![name](https://user-images.githubusercontent.com/92509274/153761367-59fbe52c-abc2-47cc-becb-697acad0ebae.svg)](https://www.linkedin.com/in/sundaree)
+[![name](https://user-images.githubusercontent.com/92509274/153761367-59fbe52c-abc2-47cc-becb-697acad0ebae.svg)](https://www.linkedin.com/in/sundaree) [![Credly](https://user-images.githubusercontent.com/92509274/153761735-3f7388b2-48f0-4bf2-8a4d-487a8b7e432a.svg)](https://www.credly.com/users/sundaree-thasaratharaj)
 <!--
 **sundaree-t/sundaree-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
