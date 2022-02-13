@@ -1,6 +1,6 @@
 ![](gifgithub.gif)
 
-[![name](https://user-images.githubusercontent.com/92509274/153761367-59fbe52c-abc2-47cc-becb-697acad0ebae.svg)](www.linkedin.com/in/sundaree)
+[![name](https://user-images.githubusercontent.com/92509274/153761367-59fbe52c-abc2-47cc-becb-697acad0ebae.svg)](https://www.linkedin.com/in/sundaree)
 <!--
 **sundaree-t/sundaree-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
